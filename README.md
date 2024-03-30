@@ -14,7 +14,6 @@ touch .gitignore
 
 Luego accedemos a él y simplemente ponemos los nombres y extensiones de los archivos y carpetas que deseamos que git ignore. Esto deberia verse algo así
 ```
-.gitignore -- El .gitignore mismo
 ignorado.txt  -- Un archivo de ejemplo
 directorio_a_ignorar/ -- Un directorio de ejemplo
 ```
