@@ -23,3 +23,5 @@ Respuesta a punto 3, apartado g:
 
 Se debe a que la direccion de memoria almacenada por el puntero es (por como lo definimos: pNumero = &numero, donde & se lee como la direccion de memoria de)
 la misma que la direccion de memoria de la variable. En el punto 4, a diferencia de estas dos direcciones que son iguales, es la direccion de memoria del mismo puntero. Esta naturalmente es diferente a la direccion de memoria de la variable.
+
+P.D: Si un profe está leyendo esto, por favor corrija mi apellido en github: es "Sandoval" y no "Sandovall" como figuraba cuando ingresé y me autentifiqué. Perdón por la molestia. Creo que el error fue de tipeo mío. Sin más, me despido atentamente.
